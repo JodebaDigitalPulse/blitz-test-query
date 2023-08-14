@@ -1,4 +1,4 @@
-dateModified: 1692010591
+dateModified: 1692011109
 email:
   fromEmail: jonathan@digitalpulse.be
   fromName: 'Blitz Test Query'
@@ -14,6 +14,7 @@ plugins:
   blitz:
     edition: standard
     enabled: true
+    licenseKey: BHJ96OQIJ1HDHESH30IJBYDW
     schemaVersion: 4.5.0
     settings:
       apiKey: ''
