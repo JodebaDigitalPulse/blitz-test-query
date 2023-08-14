@@ -1,0 +1,24 @@
+dateModified: 1692010094
+email:
+  fromEmail: jonathan@digitalpulse.be
+  fromName: 'Blitz Test Query'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    2f268f94-462a-4e85-8748-22087bea9ad6: 'Blitz Test Query' # Blitz Test Query
+    779d9a15-288a-48fd-94c0-e17dcf009721: Jobs # Jobs
+    77073e8d-40f0-4d4c-8427-82edbbd22929: Common # Common
+    e052ffce-16bc-48f8-b4e2-f2cd3f25cefc: 'Blitz Test Query' # Blitz Test Query
+    e2d7e07e-b530-4613-8055-396acd7fdea6: Default # Default
+system:
+  edition: solo
+  live: true
+  name: 'Blitz Test Query'
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

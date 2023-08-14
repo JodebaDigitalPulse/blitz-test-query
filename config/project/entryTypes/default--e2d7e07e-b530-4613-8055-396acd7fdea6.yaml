@@ -1,0 +1,43 @@
+fieldLayouts:
+  3169df3e-6fd6-4900-aa3b-27497d067fd5:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 432b00b0-4db4-4114-8c3f-3476500b4757
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: e4cdc9be-776e-4404-961d-752c6952f88b
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 779d9a15-288a-48fd-94c0-e17dcf009721 # Jobs
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

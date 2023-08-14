@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: jobs
+name: Jobs
+propagationMethod: all
+siteSettings:
+  e052ffce-16bc-48f8-b4e2-f2cd3f25cefc: # Blitz Test Query
+    enabledByDefault: true
+    hasUrls: true
+    template: jobs/_entry
+    uriFormat: 'jobs/{slug}'
+type: channel
